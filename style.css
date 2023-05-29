@@ -1,0 +1,17 @@
+.navbar {
+animation: bounceInDown 1s; /* Apply the animation to the navbar */
+}
+
+.navbar-nav .nav-link {
+font-size: 32px; /* Change the font size */
+color: #ff0000; /* Change the font color */
+font-family: Arial, sans-serif; /* Change the font family */
+text-decoration: none; /* Add text decoration */
+font-weight: bold; /* Add font weight */
+}
+
+.footer {
+background-color: #f8f9fa; /* Set the background color of the footer */
+padding: 20px 0; /* Set the padding of the footer */
+text-align: center; /* Center align the content */
+}
